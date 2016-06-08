@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:11.839717
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:04
 #+TITLE: 金剛頂瑜伽三十七尊出生義
 #+PROPERTY: CBETA_ID T18n0872
 #+PROPERTY: ID KR6j0038
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 872
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0038_T_000-0297c>¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0038_T_001-0297c> ¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.872¶
-
- 金剛頂瑜伽三十七尊出生義¶
+No. 872¶
+金剛頂瑜伽三十七尊出生義¶
 ¶
-特進試鴻臚卿大興寺三藏沙門¶
-大廣智不空奉　詔譯¶
+特進試鴻臚卿大興寺三藏沙門大廣智不空奉　詔譯¶
 
 我能仁如來。憫三有六趣之惑。常由蘊界入¶
 等。受生死妄執。空華無而虛計。衣珠有而不¶
@@ -137,7 +135,7 @@ No.872¶
 金剛智阿闍梨以悲願力。將流演於中國。遂¶
 挈瓶杖錫。開元七載至自上京。十四載遽得¶
 其人。復以誓約傳不空金剛阿闍梨。然後其¶
-枝條付囑。頗有其人。若冢嶠相承。准此而¶
+枝條付囑。頗有其人。若冢相承。准此而¶
 已。按本教。其有得斯灌頂者。金剛薩埵恒住¶
 其身心。而藩屏心王。使至乎道。雖未證入。¶
 是從法生。得膺金剛名。已墮菩薩數。其有¶
